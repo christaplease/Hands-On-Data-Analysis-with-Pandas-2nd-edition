@@ -1,4 +1,5 @@
 # Chapter 3: Data Wrangling with Pandas
+# Fall 2024 Dr. Self 
 
 In this chapter, we discuss the process of data manipulation, learn how to explore an API to gather data, and perform data cleaning and reshaping with `pandas`.
 
